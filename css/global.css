@@ -1,7 +1,14 @@
 body {
     background-color: cornflowerblue;
   }
-  
+
+div {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
   #content {
     position:relative;
   }
@@ -24,12 +31,7 @@ body {
     color: black;
   }
 
-  div {
-      padding-top: 50px;
-      padding-bottom: 50px;
-      padding-left: 30px;
-      padding-right: 30px;
-  }
+
 
   .button {
     background-color: #0000aa;
