@@ -43,6 +43,11 @@ main {
   overflow-wrap:break-word;
   font-size:var(--font-size)
 }
+h3 {
+  text-align: center;
+  padding: 5px;
+  margin: 0px;
+}
 .container {
   display:flex;
   width:100%;
@@ -52,7 +57,13 @@ main {
   display:flex;
   flex-wrap:wrap;
   justify-content:center;
-  width:100%
+  width:20%;
+  padding: 5px;
+  background-color: var(--bglight);
+}
+
+.badges a {
+  background-color: var(--bglight);
 }
 
 a {
@@ -89,7 +100,7 @@ button:disabled {
   text-align: center;
 }
 
-ul {
+.menuBar {
   list-style-type: none;
   margin: -16px;
   margin-bottom: 20px;
@@ -97,11 +108,11 @@ ul {
   background-color:var(--bglight)
 }
 
-li {
+.menuLinks {
   float: left;
 }
 
-li a {
+.menuLinks a {
   display: block;
   color: var(--fg);
   text-align: center;
@@ -109,7 +120,7 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+.menuLinks a:hover {
   background-color:var(--red);
 }
 
@@ -119,6 +130,11 @@ li a:hover {
 
 p {
   text-align: left;
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+.myLinks {
+  justify-items: center;
+  margin: 15px;
 }
