@@ -49,14 +49,14 @@ h3 {
   margin: 0px;
 }
 .container {
-  display:flex;
-  width:100%;
-  justify-content:center
+  display: flex;
+  width: 100%;
+  justify-content: center
 }
 .badges {
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   padding: 5px;
   background-color: var(--bglight);
 }
@@ -66,35 +66,35 @@ h3 {
 }
 
 a {
-  color:var(--fg);
+  color: var(--fg);
 }
 
 .button {
-  image-rendering:pixelated;
-  border-radius:0!important;
-  margin:0!important
+  image-rendering: pixelated;
+  border-radius: 0!important;
+  margin: 0!important
 }
 
 button {
-  background-color:var(--bgdarker);
-  border:0px;
-  border-radius:0px;
-  color:var(--fg);
-  cursor:pointer;
-  font-family:var(--font)
+  background-color: var(--bgdarker);
+  border: 0px;
+  border-radius: 0px;
+  color: var(--fg);
+  cursor: pointer;
+  font-family: var(--font)
 }
 button:disabled {
-  cursor:not-allowed;
-  color:var(--fgdark)
+  cursor: not-allowed;
+  color: var(--fgdark)
 }
 
 .large {
-  font-size:3rem;
-  margin:0
+  font-size: 3rem;
+  margin: 0
 }
 
 .special {
-  color:var(--lightgray);
+  color: var(--lightgray);
   text-align: center;
 }
 
@@ -103,7 +103,7 @@ button:disabled {
   margin: -16px;
   margin-bottom: 20px;
   padding: 0;
-  background-color:var(--bglight)
+  background-color: var(--bglight)
 }
 
 .menuLinks {
@@ -119,11 +119,11 @@ button:disabled {
 }
 
 .menuLinks a:hover {
-  background-color:var(--red);
+  background-color: var(--red);
 }
 
 .active {
-  background-color:var(--red);
+  background-color: var(--red);
 }
 
 p {
@@ -148,4 +148,14 @@ p {
   margin-right: auto;
   width: 25vw; 
   justify-items: center;
+}
+
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  display: block;
+  color: var(--fg);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
