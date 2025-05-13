@@ -1,2 +1,4 @@
 .eslintrc.json
 .vc
+.DS_Store
+.vscode
