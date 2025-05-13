@@ -135,6 +135,11 @@ p {
 }
 
 .myLinks {
-  justify-items: center;
-  margin: 15px;
+  align-content: center;
+  text-align: center;
+  list-style-position: inside;
+}
+
+.myLinks li {
+  padding-right: 50px;
 }
