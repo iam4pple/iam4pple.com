@@ -1,9 +1,8 @@
 {
-  "subject": "acct:${email}",
-  "links": [
-    {
-      "rel": "http://openid.net/specs/connect/1.0/issuer",
-      "href": "https://auth.iam4pple.com"
-    }
-  ]
+"subject": null, 
+"links": [
+{"rel": "http://openid.net/specs/connect/1.0/issuer", 
+"href": "https://auth.iam4pple.com/application/o/tailscale/"
+}
+]
 }
