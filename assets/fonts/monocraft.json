@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Monocraft",
+    "previewText": "She Geno On My Under Till I Tale",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Black.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Bold-Italic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Black.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Black-Italic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Light.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Light-Italic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-SemiBold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-SemiBold-Italic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Black.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Light.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-SemiBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/iam4pple/iam4pple.com/blob/main/assets/fonts/Monocraft-SemiBold.ttf?raw=1"
+    }
+}
